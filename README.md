@@ -1,32 +1,14 @@
 ### Hello there, i'm Keven A. Santos 👋
 
+i'm a self-taught programmer current learning python, java, html, css, js and git/github
+
+[![Instagram Badge](https://img.shields.io/badge/-@kevinapsantos-F44747?style=for-the-badge&labelColor=F44747&logo=instagram&logoColor=white&link=https://instagram.com/kevinapsantos)](https://instagram.com/kevinapsantos) [![Linkedin Badge](https://img.shields.io/badge/-kevensantos-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/keven-santos-430849201/)](https://www.linkedin.com/in/keven-santos-430849201/)
+[![Protonmail Badge](https://img.shields.io/badge/-ProtonMail-8B89CC?logo=protonmail&style=for-the-badge&logoColor=white&link=mailto:keven.santos@protonmail.com)](mailto:keven.santos@protonmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:keven.clash3@gmail.com)](mailto:keven.clash3@gmail.com)
 
 
-
-<p align="center">
-    <i>Você pode me encontrar ou entrar em contato comigo por essas redes:</i>
-    <br/><br/>
-    <a href="https://github.com/KevinAp-5" target="_blank">
-        <img src="https://img.shields.io/badge/-Github-000?logo=github&style=for-the-badge&logoColor=white" alt="Bradge Github" />
-    <a href="keven.santos@protonmail.com" target="_blank">
-        <img src="https://img.shields.io/badge/-ProtonMail-8B89CC?logo=protonmail&style=for-the-badge&logoColor=white" alt="Bradge ProtonMail" />
-    </a>
-</p>
-
-
-
-
-<!--
-**KevinAp-5/KevinAp-5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<details>
+    <summary>Minhas Estátisticas no Github</summary>
+        <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?locale=pt-br&username=KevinAp-5&theme=dark" alt="Techs utilizadas nos projetos" />
+        <img align="right" src="https://github-readme-stats.vercel.app/api?locale=pt-br&username=KevinAp-5&theme=dark&show_icons=true&include_all_commits=true" alt="Estátisticas Gerais" />
+</details>
