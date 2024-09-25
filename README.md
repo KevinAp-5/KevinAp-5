@@ -1,6 +1,8 @@
-### Hello there, i'm Keven AP. de Moraes Santos 👋
+### Olá, eu me chamo Keven!
 
-i'm a self-taught programmer current learning html, css, js, python and git/github
+programador FULLSTACK!
+JAVA, PYTHON
+REACT, HTML, CSS, JS
 
 Feel free to contact me if you want to!
 
