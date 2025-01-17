@@ -1,10 +1,10 @@
 ### Olá, eu me chamo Keven!
 
 programador FULLSTACK!
-JAVA, PYTHON
+JAVA, PYTHON,
 REACT, HTML, CSS, JS
 
-Feel free to contact me if you want to!
+Contatos abaixo:
 
 [![Instagram Badge](https://img.shields.io/badge/-@kevinapsantos-F44747?style=for-the-badge&labelColor=F44747&logo=instagram&logoColor=white&link=https://instagram.com/kevinapsantos)](https://instagram.com/kevinapsantos) [![Linkedin Badge](https://img.shields.io/badge/-kevensantos-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/keven-santos-430849201/)](https://www.linkedin.com/in/keven-santos-430849201/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:keven.clash3@gmail.com)](mailto:keven.clash3@gmail.com)
