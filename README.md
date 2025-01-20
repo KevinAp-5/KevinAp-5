@@ -1,8 +1,8 @@
 ### Olá, eu me chamo Keven!
 
-programador FULLSTACK!
-JAVA, PYTHON,
-REACT, HTML, CSS, JS
+Desenvolvedor java!
+JAVA Spring boot, SQL, DOCKER,
+REACT, HTML, CSS, JS, PYTHON
 
 Contatos abaixo:
 
