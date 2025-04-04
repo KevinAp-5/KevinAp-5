@@ -27,17 +27,6 @@ Sou um desenvolvedor **Java Backend** apaixonado por tecnologia, com experiênci
 
 ---
 
-## 📊 Minhas Estatísticas no GitHub
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=KevinAp-5&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>  
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevinAp-5&layout=compact&langs_count=7&theme=dark"/>  
-
-</div>
-
----
-
 ## 💡 Sobre Mim
 
 Sou apaixonado por **resolver problemas complexos através da programação** e **aprender novas tecnologias**. Sempre buscando colaborar em projetos que fazem a diferença e aprimorar minhas habilidades como desenvolvedor! 🚀  
